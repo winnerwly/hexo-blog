@@ -79,7 +79,7 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/winnerwly/winnerwly.github.io.git
+  repo: https://gitee.com/winnerwly/winnerwly.git
   branch: master
 
 jsonContent:
