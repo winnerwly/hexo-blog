@@ -60,6 +60,8 @@ hexo d || hexo deploy # 部署
 
 $ git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia # 后面的themes/yilia表示克隆到根目录下的themes下的yilia
 
+$ git clone https://gitee.com/winnerwly/hexo-theme-yilia.git themes/yilia # 码云备用地址(推荐使用GitHub,那是原作者的地址)
+
 修改hexo根目录下的 _config.yml ： theme: yilia
 
 生成静态文件 hexo g
